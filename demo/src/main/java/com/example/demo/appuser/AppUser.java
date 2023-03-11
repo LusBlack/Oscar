@@ -19,7 +19,7 @@ import java.util.Collections;
 @Entity
 public class AppUser implements UserDetails {
 
-
+// tet
     @SequenceGenerator(
             name = "student_sequence",
             sequenceName = "student_sequence",
